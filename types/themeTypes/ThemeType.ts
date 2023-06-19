@@ -9,6 +9,7 @@ export type ThemeTypes = {
         success?: string;
         accent?: string;
         warning?: string;
+        yellow?: string;
         error?: string;
         lightprimary?: string;
         lightsecondary?: string;

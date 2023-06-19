@@ -22,34 +22,34 @@ const sidebarItem: menu[] = [
     },
     { header: 'aulas virtuales' },
     {
-        title: 'facilitadores',
-        icon: 'mdi-human-male-board',
-        to: '/ui/typography'
-    },
-    {
         title: 'Gestionar Aulas',
         icon: 'mdi-cast-education',
-        to: '/ui/shadow'
+        to: '/aulas/gestionaraulas'
+    },
+    {
+        title: 'facilitadores',
+        icon: 'mdi-human-male-board',
+        to: '/aulas/facilitadores'
     },
     {
         title: 'Plataformas Virtuales',
         icon: 'mdi-monitor-account',
-        to: '/ui/typography'
+        to: '/aulas/plataformas'
     },
     {
         title: 'Modalidades',
         icon: 'mdi-book-education-outline',
-        to: '/ui/typography'
+        to: '/aulas/modalidades'
     },
     {
         title: 'Tipo de Formacion',
         icon: 'mdi-folder-information-outline',
-        to: '/ui/typography'
+        to: '/aulas/tipoformacion'
     },
     {
         title: 'Periodo de Formacion',
         icon: 'mdi-clipboard-text-clock-outline',
-        to: '/ui/typography'
+        to: '/aulas/periodoformacion'
     },
     { header: 'estudiantes' },
     {

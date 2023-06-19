@@ -11,8 +11,9 @@ const PurpleTheme: ThemeTypes = {
         primary: '#ff6600',
         secondary: '#49BEFF',
         info: '#539BFF',
-        success: '#13DEB9',
+        success: '#4CAF50',
         accent: '#FFAB91',
+        yellow: '#FFEB3B',
         warning: '#FFAE1F',
         error: '#FA896B',
         muted:'#5a6a85',
@@ -30,7 +31,7 @@ const PurpleTheme: ThemeTypes = {
         surface: '#fff',
         'on-surface-variant': '#fff',
         grey100: '#F2F6FA',
-        grey200: '#EAEFF4'
+        grey200: '#EAEFF4',
     }
 };
 export { PurpleTheme};
